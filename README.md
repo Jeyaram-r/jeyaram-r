@@ -31,9 +31,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=4F46E5&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=jeyaram-r&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/jeyaram-r?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/jeyaram-r?style=for-the-badge&color=4F46E5&label=STARS"/>
 
 </div>
 
@@ -320,18 +320,18 @@ Worked across frontend and backend development while gaining practical experienc
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github"/>
+<a href="https://github.com/jeyaram-r">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeyaram-r&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&rank_icon=github"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=CBD5E1"/>
+<a href="https://github.com/jeyaram-r">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeyaram-r&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=CBD5E1"/>
 </a>
 
 <br/>
 
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0B14&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=jeyaram-r&hide_border=true&background=0D0B14&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </a>
 
 </div>
@@ -342,7 +342,7 @@ Worked across frontend and backend development while gaining practical experienc
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jeyaram-r&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
@@ -352,7 +352,7 @@ Worked across frontend and backend development while gaining practical experienc
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D0B14&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyaram-r&bg_color=0D0B14&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
@@ -362,7 +362,7 @@ Worked across frontend and backend development while gaining practical experienc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/jeyaram-r/jeyaram-r/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
