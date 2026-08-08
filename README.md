@@ -31,9 +31,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=4F46E5&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=jeyaram-r&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/jeyaram-r?style=for-the-badge&color=6366F1&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/jeyaram-r?style=for-the-badge&color=4F46E5&label=STARS"/>
 
 </div>
 
